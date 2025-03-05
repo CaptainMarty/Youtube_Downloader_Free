@@ -40,3 +40,52 @@ This software is **free**, but if you want to support my work:
 ## 📧 Contact & Support
 If you have any questions or encounter a problem, contact me:
 💬 **Discord :** CptMarty
+
+
+
+***
+
+
+
+# 📌 YouTube MP4 Downloader - Created by CptMarty
+
+## 🎯 À propos
+YouTube MP4 Downloader est un logiciel permettant de **télécharger des vidéos YouTube en MP4 ou MP3** facilement et rapidement SANS PUB.
+
+## 📥 Installation & Utilisation
+1. **Téléchargez** et extrayez tous les fichiers dans un dossier.
+2. **Lancez** `youtube_to_mp4.exe`.
+3. **Collez l'URL** d'une vidéo YouTube.
+4. **Cliquez sur** `Télécharger en MP4` ou `Télécharger en MP3`.
+5. Les fichiers seront enregistrés dans les dossiers **Mp4/** et **Mp3/** automatiquement.
+
+## 🔧 Fonctionnalités
+✔ Téléchargement en **MP4 (vidéo) et MP3 (audio)**
+✔ Interface **moderne et simple**
+✔ Barre de progression animée
+✔ Dossiers automatiques pour organiser les fichiers
+✔ **100% gratuit** (avec option de donation)
+
+## 📂 Où trouver mes fichiers téléchargés ?
+- Les fichiers MP4 se trouvent dans le dossier **Mp4/**
+- Les fichiers MP3 se trouvent dans le dossier **Mp3/**
+
+## ❓ FAQ
+### 🛠 Le logiciel ne s'ouvre pas ?
+- Assurez-vous d'avoir extrait tous les fichiers et **ne pas le lancer depuis l’archive ZIP**.Lavoisier
+- Essayez de **désactiver temporairement votre antivirus**, certains peuvent bloquer les exécutables.
+
+### 📂 Les dossiers Mp4 et Mp3 ne sont pas créés ?
+- Lancez le logiciel en tant qu'**Administrateur** (`clic droit > Exécuter en tant qu’administrateur`).
+- Vérifiez si votre antivirus empêche la création de dossiers.
+
+### 🎵 Pourquoi le MP3 sort en .webm ?
+- Vérifiez que **FFmpeg** est bien inclus dans le dossier du logiciel.
+
+## 💰 Soutenir le projet
+Ce logiciel est **gratuit**, mais si vous souhaitez soutenir mon travail :
+- 💳 [Soutenir via PayPal](https://www.paypal.com/donate/?business=Y67ENV5NW8Q2C&no_recurring=0&item_name=Thanks+For+Your+Help+%21+&currency_code=EUR)
+
+## 📧 Contact & Support
+Si vous avez des questions ou rencontrez un problème, contactez-moi :
+💬 **Discord :** CptMarty
