@@ -5,10 +5,12 @@ YouTube MP4 Downloader is a software that allows you to **download YouTube video
 
 ## 📥 Installation & Usage
 1. **Download** and extract all files into a folder.
-2. **Launch** youtube_to_mp4.exe.
-3. **Paste the URL** of a YouTube video.
-4. **Click on** Download to MP4 or Download to MP3.
-5. The files will be saved in the **Mp4/** and **Mp3/** folders automatically.
+2. Open folder: ffmpeg-7.1-essentials_build -> bin
+3. Copy "ffmpeg.exe" and paste into the main folder in the same location as "youtube_to_mp4.exe"
+4. **Launch** youtube_to_mp4.exe.
+5. **Paste the URL** of a YouTube video.
+6. **Click on** Download to MP4 or Download to MP3.
+7. The files will be saved in the **Mp4/** and **Mp3/** folders automatically.
 
 ## 🔧 Features
 ✔ **MP4 (video) and MP3 (audio)** download
@@ -54,10 +56,12 @@ YouTube MP4 Downloader est un logiciel permettant de **télécharger des vidéos
 
 ## 📥 Installation & Utilisation
 1. **Téléchargez** et extrayez tous les fichiers dans un dossier.
-2. **Lancez** `youtube_to_mp4.exe`.
-3. **Collez l'URL** d'une vidéo YouTube.
-4. **Cliquez sur** `Télécharger en MP4` ou `Télécharger en MP3`.
-5. Les fichiers seront enregistrés dans les dossiers **Mp4/** et **Mp3/** automatiquement.
+2. Ouvrir le dossier : ffmpeg-7.1-essentials_build -> bin
+3. Copiez "ffmpeg.exe" et coller dans le dossier principal au même emplacement que "youtube_to_mp4.exe"
+4. **Lancez** `youtube_to_mp4.exe`.
+5. **Collez l'URL** d'une vidéo YouTube.
+6. **Cliquez sur** `Télécharger en MP4` ou `Télécharger en MP3`.
+7. Les fichiers seront enregistrés dans les dossiers **Mp4/** et **Mp3/** automatiquement.
 
 ## 🔧 Fonctionnalités
 ✔ Téléchargement en **MP4 (vidéo) et MP3 (audio)**
