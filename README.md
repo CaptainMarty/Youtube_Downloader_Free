@@ -1,5 +1,9 @@
 # 📌 YouTube MP4 Downloader - Created by CptMarty
 
+## 💰 Support the project
+This software is **free**, but if you want to support my work:
+- 💳 [Support via PayPal](https://www.paypal.com/donate/?business=Y67ENV5NW8Q2C&no_recurring=0&item_name=Thanks+For+Your+Help+%21+&currency_code=EUR)
+
 ## 🎯 About
 YouTube MP4 Downloader is a software that allows you to **download YouTube videos to MP4 or MP3** easily and quickly WITHOUT ADS.
 
@@ -33,10 +37,6 @@ YouTube MP4 Downloader is a software that allows you to **download YouTube video
 ### 🎵 Why does the MP3 come out in .webm?
 - Check that **FFmpeg** is included in the software folder.
 
-## 💰 Support the project
-This software is **free**, but if you want to support my work:
-- 💳 [Support via PayPal](https://www.paypal.com/donate/?business=Y67ENV5NW8Q2C&no_recurring=0&item_name=Thanks+For+Your+Help+%21+&currency_code=EUR)
-
 ## 📧 Contact & Support
 If you have any questions or encounter a problem, contact me:
 💬 **Discord :** CptMarty
@@ -48,6 +48,10 @@ If you have any questions or encounter a problem, contact me:
 
 
 # 📌 YouTube MP4 Downloader - Created by CptMarty
+
+## 💰 Soutenir le projet
+Ce logiciel est **gratuit**, mais si vous souhaitez soutenir mon travail :
+- 💳 [Soutenir via PayPal](https://www.paypal.com/donate/?business=Y67ENV5NW8Q2C&no_recurring=0&item_name=Thanks+For+Your+Help+%21+&currency_code=EUR)
 
 ## 🎯 À propos
 YouTube MP4 Downloader est un logiciel permettant de **télécharger des vidéos YouTube en MP4 ou MP3** facilement et rapidement SANS PUB.
@@ -81,10 +85,6 @@ YouTube MP4 Downloader est un logiciel permettant de **télécharger des vidéos
 
 ### 🎵 Pourquoi le MP3 sort en .webm ?
 - Vérifiez que **FFmpeg** est bien inclus dans le dossier du logiciel.
-
-## 💰 Soutenir le projet
-Ce logiciel est **gratuit**, mais si vous souhaitez soutenir mon travail :
-- 💳 [Soutenir via PayPal](https://www.paypal.com/donate/?business=Y67ENV5NW8Q2C&no_recurring=0&item_name=Thanks+For+Your+Help+%21+&currency_code=EUR)
 
 ## 📧 Contact & Support
 Si vous avez des questions ou rencontrez un problème, contactez-moi :
